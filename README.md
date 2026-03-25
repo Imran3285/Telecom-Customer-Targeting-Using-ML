@@ -1,7 +1,6 @@
 # 📱 Telecom Customer Targeting Using Machine Learning
 
-A machine learning project built as part of my postgraduate studies.  
-The goal is simple — help a fictional telecom company (Wallace Communications) 
+A machine learning project built to help a fictional telecom company (Wallace Communications) 
 stop wasting money on cold calls by predicting which customers are actually 
 likely to sign up for a new mobile contract.
 
@@ -194,6 +193,6 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyter
 ## Author
 
 **Muhammad Imran**  
-Junior Data Scientist  
+Data Scientist 
 GitHub: [@Imran3285](https://github.com/Imran3285)  
 Email: m.imran88222@gmail.com
