@@ -6,7 +6,7 @@ likely to sign up for a new mobile contract.
 
 ---
 
-## 🧠 The Problem
+## 🎯 The Problem
 
 Wallace Communications has spent years building out their landline network 
 across UK cities. Now they want to break into the mobile market — but running 
